@@ -1,10 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Maze.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.js">
     <Files>
-      <File FileName="Assets\Scripts\IntVector3.js" Line="4" Column="8" />
-      <File FileName="Assets\Scripts\MazeCell.js" Line="5" Column="31" />
-      <File FileName="Assets\Scripts\Maze.js" Line="17" Column="20" />
+      <File FileName="Assets\Scripts\Field.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\IntVector3.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.js" Line="4" Column="2" />
+      <File FileName="Assets\Scripts\FieldWall.js" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
